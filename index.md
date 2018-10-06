@@ -1,6 +1,6 @@
 ## Application Instructions
 
-・hacoNiWA（[Privacy Policy](https://github.com/honda-aco/honda-aco-apps/blob/master/privacy-policy-hacoNiWA.md)）
+・hacoNiWA（[Privacy Policy](https://honda-aco.github.io/honda-aco-apps/privacy-policy-hacoNiWA)）
 
 ・ツイッターアンケートシミュレータ（In Preparation）
 
