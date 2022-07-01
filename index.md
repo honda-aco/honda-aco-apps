@@ -1,7 +1,11 @@
 ## Application Instructions
 
-・hacoNiWA（[Privacy Policy](https://honda-aco.github.io/honda-aco-apps/privacy-policy-hacoNiWA)）
+### [Privacy Policy](https://honda-aco.github.io/honda-aco-apps/privacy-policy)
 
-・ツイッターアンケートシミュレータ（In Preparation）
+・hacoNiWA -3D character-walking-
 
-・シンプルサブランチャー（In Preparation）
+・ツイッターアンケートシミュレータ
+
+・シンプルサブランチャー
+
+・死んでも夢から出られない
