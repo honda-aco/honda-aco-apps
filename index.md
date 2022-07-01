@@ -1,6 +1,6 @@
 ## Application Instructions
 
-### [Privacy Policy](https://honda-aco.github.io/honda-aco-apps/privacy-policy-hacoNiWA)
+### [Privacy Policy](https://honda-aco.github.io/honda-aco-apps/privacy-policy)
 
 ・hacoNiWA -3D character-walking-
 
